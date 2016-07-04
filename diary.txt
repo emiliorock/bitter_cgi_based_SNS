@@ -1,0 +1,40 @@
+Oct 12th 10:00-13:00
+Design and set up database
+insert data with large dataset
+
+Oct 13th 19:00-22:00
+Refine database structure
+Design the structure of bitter
+
+Oct 14th 19:00-22:00
+Implement main function, seperated to different parts
+Implement log in and out function with database
+Design and work on the current user's profile page
+Test log in, log out and update the current user's profile
+
+Oct 15th 11:00-13:00
+Implement search function
+
+Oct 15th 18:00-21:00
+Implement recent bleat page
+Start working on pagination of the search result and relevant bleats
+
+Oct 16th 16:00-21:00
+Refine search function, adding details to the search results,
+including user profile, the replies of one bleat
+Implement viewing replies and replying to bleats function
+
+Oct 18th 11:00-17:00
+Implement sign up function and send mail function
+Implement password recovery function, upload and delete bleat function
+
+Oct 19th 11:00-13:00
+fix bugs in search function
+
+Oct 20th 20:00-24:00
+Implement suspend, delete account function
+Add notification and bleat attachment
+
+Oct 21th 9:00-13:00
+Add bootstrap css
+Test all over again with each function
